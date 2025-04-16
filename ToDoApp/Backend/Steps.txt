@@ -1,0 +1,19 @@
+//backend steps
+step 1: npm init
+step 2: npm install express
+step 3: npm i nodemon
+step 4: do this changes and create server.js file
+"main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+// database set up
+step 1: click products
+step 2: click download community edition
+step 3: select complete
+step 4: install
+//connecting mongo database
+step 1: npm i mongoose
+step 2: import mongoose from 'mongoose';
+
